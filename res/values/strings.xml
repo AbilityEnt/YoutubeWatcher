@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YoutubeWatcher</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="btn_back">Go Back</string>
+    <string name="video">A Video</string>
+    <string name="btn_add_channel">Add Channel</string>
+    <string name="menu_about">About</string>
+    <string name="txt_yt_channel">ownagepranks</string>
+    <string name="txt_no_chan_title">YoutubeWatcher:</string>
+    <string name="txt_no_chan_message">Start out by adding a youtube channel for this application to watch. After a channel has been added, YoutubeWatcher will notify you when a new video has been uploaded by that channel.</string>
+
+</resources>
